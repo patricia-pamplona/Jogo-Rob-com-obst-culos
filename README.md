@@ -1,2 +1,3 @@
-# Jogo-Rob-com-obst-culos
+# Jogo-Rob-com-obstaculos
+Python
 Usando função A* e obstáculos randomizados
